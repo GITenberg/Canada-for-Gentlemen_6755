@@ -1,0 +1,23 @@
+_repo: Canada-for-Gentlemen_6755
+creator:
+  author:
+    agent_name: Cockburn, James Seton
+    alias: Cockburn, James Seaton
+    gutenberg_agent_id: '2190'
+    url: http://www.gutenberg.org/2009/agents/2190
+description: ''
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6755'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- Emigration and immigration'
+- !lcsh 'Canada -- Description and travel'
+- !lcc 'F1001'
+- !lcc 'PR'
+title: Canada for Gentlemen
+url: http://www.gutenberg.org/ebooks/6755
